@@ -149,10 +149,6 @@ We welcome contributions! To contribute:
    ```
 3. Push your branch and create a pull request.
 
----
-
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
